@@ -1,0 +1,15 @@
+/Users/rajvikchavda/Desktop/Problem Set 1/Question_1/Question_1/bin/Debug/net7.0/Question_1
+/Users/rajvikchavda/Desktop/Problem Set 1/Question_1/Question_1/bin/Debug/net7.0/Question_1.deps.json
+/Users/rajvikchavda/Desktop/Problem Set 1/Question_1/Question_1/bin/Debug/net7.0/Question_1.runtimeconfig.json
+/Users/rajvikchavda/Desktop/Problem Set 1/Question_1/Question_1/bin/Debug/net7.0/Question_1.dll
+/Users/rajvikchavda/Desktop/Problem Set 1/Question_1/Question_1/bin/Debug/net7.0/Question_1.pdb
+/Users/rajvikchavda/Desktop/Problem Set 1/Question_1/Question_1/obj/Debug/net7.0/Question_1.csproj.AssemblyReference.cache
+/Users/rajvikchavda/Desktop/Problem Set 1/Question_1/Question_1/obj/Debug/net7.0/Question_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rajvikchavda/Desktop/Problem Set 1/Question_1/Question_1/obj/Debug/net7.0/Question_1.AssemblyInfoInputs.cache
+/Users/rajvikchavda/Desktop/Problem Set 1/Question_1/Question_1/obj/Debug/net7.0/Question_1.AssemblyInfo.cs
+/Users/rajvikchavda/Desktop/Problem Set 1/Question_1/Question_1/obj/Debug/net7.0/Question_1.csproj.CoreCompileInputs.cache
+/Users/rajvikchavda/Desktop/Problem Set 1/Question_1/Question_1/obj/Debug/net7.0/Question_1.dll
+/Users/rajvikchavda/Desktop/Problem Set 1/Question_1/Question_1/obj/Debug/net7.0/refint/Question_1.dll
+/Users/rajvikchavda/Desktop/Problem Set 1/Question_1/Question_1/obj/Debug/net7.0/Question_1.pdb
+/Users/rajvikchavda/Desktop/Problem Set 1/Question_1/Question_1/obj/Debug/net7.0/Question_1.genruntimeconfig.cache
+/Users/rajvikchavda/Desktop/Problem Set 1/Question_1/Question_1/obj/Debug/net7.0/ref/Question_1.dll
